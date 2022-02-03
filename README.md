@@ -4,7 +4,7 @@ Design and code a "document" with HTML on Glitch!
 
 Once you've created your Glitch account:
 
-- Fork (or "remix") the template project I have provided you titled "icom101-week1-start": https://glitch.com/edit/#!/icom101-week1-start
+- Fork (or "remix") the template project I have provided you titled "icom-101-week-2-html-hw-startingpoint": https://glitch.com/edit/#!/icom-101-week-2-html-hw-startingpoint
 - Delete the style.css file and script.js file in the project directory folder on the left. (XC)
 - Look for references to those files in index.html, and delete those lines (XC)
 - Using this template, create a formatted / structured text document: Resume, Cover Letter, simple flier for an event, Liner Notes, Movie Credits, Contract, Charter, Certificate, or whatever you can think of. Go as far and be as creative as you like.
@@ -36,11 +36,9 @@ Take a look in `TODO.md` for next steps you can try out in your new site!
 
 **_Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!_**
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
 ## You built this with Glitch!
 
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
