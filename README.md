@@ -1,6 +1,22 @@
-# Hello website!
+# ICOM 101 - Week 2! Basic HTML HW starting point
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+Design and code a "document" with HTML on Glitch!
+
+Once you've created your Glitch account:
+
+- Fork (or "remix") the template project I have provided you titled "icom101-week1-start": https://glitch.com/edit/#!/icom101-week1-start
+- Delete the style.css file and script.js file in the project directory folder on the left. (XC)
+- Look for references to those files in index.html, and delete those lines (XC)
+- Using this template, create a formatted / structured text document: Resume, Cover Letter, simple flier for an event, Liner Notes, Movie Credits, Contract, Charter, Certificate, or whatever you can think of. Go as far and be as creative as you like.
+- MAKE SURE to use all of the tags mentioned in this session's lecture:
+  - Heading - Titles and Subtitles. Make sure to use different heading levels with h1 through h6 tags ( at least 2 different heading levels )
+  - Paragraph - use the p tag to format text into paragraphs
+  - Strong - add emphasis with em and strong tags
+  - Emphasis - add emphasis with em and strong tags
+  - List with List Item - Use an list tag to create a list, and populate it with item
+  - Anchor / Link (XC) - Use an a tag to link to another website
+  - Image (XC) - Use an img tag to display an image
+  - Div (XC) - divide your content into sections with div, section, or article tags
 
 ## What's in this project?
 
@@ -18,7 +34,7 @@ Open each file and check out the comments (in gray) for more info.
 
 Take a look in `TODO.md` for next steps you can try out in your new site!
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+**_Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!_**
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
