@@ -9,6 +9,6 @@ h2 {
   text-align: center;
 }
 
-image {
-  background-image: url("IMG-3041.jpg")
+.image {
+  background-image: url("IMG-3041.jpg");
 }
