@@ -1,8 +1,14 @@
 h1 {
   font-size: 80px;
   position: center;
+  text-align: center;
 }
 
 h2 {
-  font
+  font-family: monospace;
+  text-align: center;
+}
+
+image {
+  background-image: url("IMG-3041.jpg")
 }
