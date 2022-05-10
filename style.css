@@ -19,7 +19,8 @@ h3 {
 }
 
 h4 {
-  align: center;
+  text-align: center;
+  margin-top:80px
 }
 
 .center {
@@ -27,4 +28,10 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+body {
+  background-image: url("https://cdn.glitch.global/feef5731-eb54-4a82-aa48-d7280c004b01/IMG-3041.jpg?v=1651885236738");
+  background-repeat: repeat;
+  background-color: #cccccc;
 }
